@@ -4,10 +4,22 @@
   padding: 0;
   box-sizing: border-box;
 }
-
 body {
   background-color: #34353a;
-  font-family: 'Roboto', sans-serif
+  font-family: 'Roboto', sans-serif;
+  color:#fff;
 }
-
+.center{
+  max-width: 780px;
+  margin: 0 auto;
+}
+h2{
+  font-family: serif;
+  font-size: 3rem;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+img{
+  max-width: 100%;
+}
 $gold: #FAC86B;
