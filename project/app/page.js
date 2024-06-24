@@ -1,5 +1,6 @@
 
-import styles from "./page.module.css";
+//import styles from "./page.module.css";
+import Intro from '../components/intro'
 
 export default function Home() {
   return (
@@ -20,7 +21,7 @@ export default function Home() {
             </a>
           </div>
       </header>
-      <section id="intro"></section>
+      <Intro />
       </main>
   );
 }
