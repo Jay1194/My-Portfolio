@@ -16,7 +16,7 @@ export default function Intro() {
         <section id="intro" className={classes}>
             <div>
                 <p>I'M <span>Jayden Taylor</span><br />Full-stack software developer</p>
-                <a href="">Contact me</a>
+                <a href="#contact">Contact me</a>
             </div>
             <div>
                 <img src="/images/Me.png" alt="me"/>
