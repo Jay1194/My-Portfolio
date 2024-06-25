@@ -9,8 +9,10 @@ import Contact from "../components/Contact";
 import Footer from "../components/Footer";
 import { useEffect } from "react";
 
+
 export default function Home() {
   useEffect(() => {
+    document.title = "Jayden Taylor - Portfolio";
     const observer = new IntersectionObserver((entries, opts) => {
       entries.forEach(entry => {
         entry.target.classList.toggle("visible", entry.isIntersecting);

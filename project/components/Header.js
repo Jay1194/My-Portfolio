@@ -1,6 +1,8 @@
+
 export default function Headers() {
     return (
         <header>
+        <link rel="icon" type="image/png" href="/images/tablog.png" />
         <img id="logo" src='/images/logo.png' alt="logo"/>
         <nav>
           <a href="#about">About me</a>
