@@ -1,9 +1,9 @@
 export default function Portfolio(){
     return (
-        <section id='portfolio'>
-            <div className='center'>
+        <section id="portfolio">
+            <div className="center">
                 <h2>Portfolio</h2>
-                <div className='portfolio-container'>
+                <div className="portfolio-container">
                     <a href="https://github.com/Jay1194/Tech-Blog"><img src="/images/MVC.png" alt="" /></a>
                     <a href="https://github.com/Jay1194/Weather-Dashboard"><img src="/images/forcast.png" alt="" /></a>
                     <a href="https://github.com/Jay1194/Deep-Thoughts"><img src="/images/deep.png" alt="" /></a>

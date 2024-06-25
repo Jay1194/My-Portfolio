@@ -1,8 +1,8 @@
-import {useState} from 'react';
+import {useState} from "react";
 export default function Skills() {
     const[extraClasses, setExtraClasses] = useState('')
     return(
-        <section id='skills'>
+        <section id="skills">
             <div className="center">
             <h2>Skills</h2>
             <div className={extraClasses + 'skills-container'}>
