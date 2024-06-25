@@ -13,7 +13,7 @@ export default function Experience() {
                     <div className="texts">
                         <h3>Freelancer</h3>
                         <h4>Las Vegas, NV, USA</h4>
-                        <p>As a newcomer to freelancing in web development, I've recently started building my presence on major platforms. Specializing in HTML, CSS, JavaScript, and other critical technologies, I've embarked on various projects to create bespoke solutions that meet client needs. Each assignment has been a valuable learning experience, helping me refine my skills in meeting deadlines and delivering quality work. I'm enthusiastic about growing further in this field, staying updated with the latest trends, and eager to contribute my fresh perspective and evolving skills to upcoming projects in web development.</p>
+                        <p>As a newcomer to freelancing in web development, I&apos;ve recently started building my presence on major platforms. Specializing in HTML, CSS, JavaScript, and other critical technologies, I&apos;ve embarked on various projects to create bespoke solutions that meet client needs. Each assignment has been a valuable learning experience, helping me refine my skills in meeting deadlines and delivering quality work. I'm enthusiastic about growing further in this field, staying updated with the latest trends, and eager to contribute my fresh perspective and evolving skills to upcoming projects in web development.</p>
                     </div>
                 </div>
                 <div className="item">
