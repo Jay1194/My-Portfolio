@@ -21,7 +21,24 @@ section#portfolio  h2 {
 @for $i from 1 through 20 {
     a:nth-child(#{$i + 1}){transition-delay: #{$i * .1s}};
 }
+
 section#portfolio.visible a {
     opacity: 1;
     left:0;
+}
+
+div#More a {
+    border: 3px solid $gold;
+    border-radius: 7px;
+    color: $gold;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: flex;
+    font-size: 1.4rem;
+    transition: .3s linear;
+    position: relative;
+    bottom: -50px;
+    opacity: 0;
+    margin-bottom: 80px;
+    justify-content: center;
 }
